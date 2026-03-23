@@ -11,3 +11,4 @@ extern inline unsigned long bitarray_size(bitarray_t pole);
 extern inline unsigned long bitarray_getbit(bitarray_t pole, bitarray_index_t i);
 extern inline void bitarray_setbit(bitarray_t pole, bitarray_index_t i, int výraz);
 extern inline void bitarray_fill(bitarray_t pole, int hodnota);
+
