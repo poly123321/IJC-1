@@ -4,7 +4,6 @@
 // Přeloženo: gcc merlin
 // Extern inline funkce
 
-#define USE_INLINE
 #include "bitarray.h"
 
 //Externí definice
